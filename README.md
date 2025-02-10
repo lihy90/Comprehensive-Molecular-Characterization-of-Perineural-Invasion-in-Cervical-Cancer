@@ -1,5 +1,4 @@
-# Comprehensive-Molecular-Characterization-of-Perineural-Invasion-in-Cervical-Cancer
-Comprehensive Molecular Characterization of Perineural Invasion in Cervical Cancer
+# Comprehensive Molecular Characterization of Perineural Invasion in Cervical Cancer
 
 This repository contains the data and code used for the analysis presented in the paper: Comprehensive Molecular Characterization of Perineural Invasion in Cervical Cancer.
 
