@@ -18,7 +18,7 @@ https://bigd.big.ac.cn/gsa-human/browse/HRA010315
   - Picard 2.23.8
   - HTSeq 0.11.3
   - Cufflinks 2.2.1
-  - DESeq2
+  - DESeq2 1.3.0
   
 - WES Analysis
   - fastp 0.20.1
